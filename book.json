@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "facebook"
+        "-facebook"
     ],
     "pluginsConfig": {}
 }
