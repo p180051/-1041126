@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [1.信主之前](chapter1.md)
+* [1.接觸信仰](chapter1.md)
 * [0-0-1](0-0-1.md)
 * [0-0-0](0-0-0.md)
 * [0-1-0](0-1-0.md)
