@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [前言](README.md)
 * [肚子痛的男孩](0-0-0.md)
 * [1.1.得救見證](chapter1.md)
 * [1.2.生命改變](0-0-1.md)
