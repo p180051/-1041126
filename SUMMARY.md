@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [1.肚子痛的男孩](stomach ache.md)
 * [1.1.得救見證](Be saved.md)
-* [1.2.生命改變](0-0-1.md)
+* [1.2.生命改變](Life changes.md)
 * [2.箴言](Proverbs.md)
 * [2.1.聖經](Bible.md)
 * [0-1-1](0-1-1.md)
