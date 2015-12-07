@@ -4,7 +4,7 @@
 * [序](preface.md)
 * [1.1.得救見證](Be saved.md)
 * [1.2.生命改變](Life changes.md)
-* [2.箴言](Proverbs.md)
+* [2.回答柔和，使怒消退](Proverbs.md)
 * [2.1.聖經](Bible.md)
 * [2.2](0-1-1.md)
 * [2-1](2-1.md)
