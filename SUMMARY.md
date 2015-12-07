@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* 0
+* [0](0.md)
 * [1.肚子痛的男孩](stomach ache.md)
 * [1.1.得救見證](Be saved.md)
 * [1.2.生命改變](Life changes.md)
