@@ -6,8 +6,8 @@
 * [1.2.生命改變](Life changes.md)
 * [2.箴言15：1](Proverbs.md)
 * [2.1.聖經](Bible.md)
-* [3.禱告開頭](0-1-1.md)
 * [4-1](2-1.md)
+* [3.禱告開頭](0-1-1.md)
 * [5.1.因著耶穌](jiang_dao_ji.md)
 * [5.2.](abraham.md)
 
