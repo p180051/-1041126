@@ -4,7 +4,7 @@
 * [序](preface.md)
 * [1.1.得救見證](Be saved.md)
 * [1.2.生命改變](Life changes.md)
-* [3.禱告開頭](pray.md)
+* [1.3.禱告開頭](pray.md)
 * [2.箴言15：1](Proverbs.md)
 * [2.1.聖經](Bible.md)
 * [4.大學 主日學](university.md)
