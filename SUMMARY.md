@@ -17,4 +17,5 @@
 * [6.課堂上的傻笑](Classroom giggle.md)
 * [7.0](70.md)
 * [8.回應神的愛](Responses.md)
+* 3-2寶劍
 
