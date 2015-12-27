@@ -8,6 +8,7 @@
 * [2.0.惡夢與異象](nightmare.Vision.md)
 * [2.箴言15：1](Proverbs.md)
 * [3.1.聖經](Bible.md)
+* 3-2寶劍
 * [4.大學之路](university.md)
 * [4.0.摩托車](motorcycle.md)
 * [4.1.考試](2-1.md)
@@ -17,5 +18,4 @@
 * [6.課堂上的傻笑](Classroom giggle.md)
 * [7.0](70.md)
 * [8.回應神的愛](Responses.md)
-* 3-2寶劍
 
