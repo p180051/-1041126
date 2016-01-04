@@ -12,7 +12,7 @@
 * [4.大學之路](university.md)
 * [4.0.摩托車](motorcycle.md)
 * [4.1.考試](2-1.md)
-* 4.2詭詐
+* [4.2詭詐](Quirkiness.md)
 * [5.1.因著耶穌](jiang_dao_ji.md)
 * [5.2.亞伯蘭](abraham.md)
 * [5.3.東方博士](Doctor.md)
