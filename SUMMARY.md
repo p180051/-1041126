@@ -19,5 +19,5 @@
 * [6.課堂上的傻笑](Classroom giggle.md)
 * [7.0](70.md)
 * [8.回應神的愛](Responses.md)
-* 4.3主日學校長
+* [4.3主日學校長](43principal)
 
