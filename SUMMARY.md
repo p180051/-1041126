@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [序](preface.md)
 * [1.1.得救見證](1.1.Be saved.md)
-* [1.2.生命改變](Life changes.md)
+* [1.2.生命改變](1.2.Life changes.md)
 * [1.3.禱告開頭](pray.md)
 * [2.0.惡夢與異象](nightmare.Vision.md)
 * [2.箴言15：1](Proverbs.md)
