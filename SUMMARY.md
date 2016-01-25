@@ -13,11 +13,11 @@
 * [4.0.摩托車](4.0.motorcycle.md)
 * [4.1.考試](4.1.exam.md)
 * [4.2詭詐](Quirkiness.md)
+* [4.3主日學校長](43principal)
 * [5.1.因著耶穌](jiang_dao_ji.md)
 * [5.2.亞伯蘭](abraham.md)
 * [5.3.東方博士](Doctor.md)
 * [6.課堂上的傻笑](Classroom giggle.md)
 * [7.0](70.md)
 * [8.回應神的愛](Responses.md)
-* [4.3主日學校長](43principal)
 
