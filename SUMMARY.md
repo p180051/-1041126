@@ -18,6 +18,6 @@
 * [5.2.亞伯蘭](5.2.abraham.md)
 * [5.3.東方博士](Doctor.md)
 * [6.課堂上的傻笑](6.Classroom giggle.md)
-* [7.0](70.md)
+* [7.0](7.0.md)
 * [8.回應神的愛](Responses.md)
 
