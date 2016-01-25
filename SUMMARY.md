@@ -7,7 +7,7 @@
 * [1.3.禱告開頭](1.3.pray.md)
 * [2.0.惡夢與異象](2.0.nightmare.Vision.md)
 * [2.箴言15：1](2.Proverbs.md)
-* [3.1.聖經](Bible.md)
+* [3.1.聖經](3.1.Bible.md)
 * [3-2寶劍](dagger.md)
 * [4.大學之路](university.md)
 * [4.0.摩托車](motorcycle.md)
