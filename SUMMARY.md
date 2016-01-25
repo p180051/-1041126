@@ -17,7 +17,7 @@
 * [5.1.因著耶穌](5.1.jiang_dao_ji.md)
 * [5.2.亞伯蘭](5.2.abraham.md)
 * [5.3.東方博士](Doctor.md)
-* [6.課堂上的傻笑](Classroom giggle.md)
+* [6.課堂上的傻笑](6.Classroom giggle.md)
 * [7.0](70.md)
 * [8.回應神的愛](Responses.md)
 
