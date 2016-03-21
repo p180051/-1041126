@@ -1,7 +1,7 @@
 # Summary
 
 * [前言](README.md)
-* [序](0.preface.md)
+* [序](preface.md)
 * [1.1.得救見證](1.1.Besaved.md)
 * [1.2.生命改變](1.2.Lifechanges.md)
 * [1.3.禱告開頭](1.3.pray.md)
