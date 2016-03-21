@@ -20,5 +20,5 @@
 * [6.課堂上的傻笑](6.Classroomgiggle.md)
 * [7.](7.md)
 * [8.回應神的愛](8.Responses.md)
-* [9.0雨天](9.0.rains.md)
+* [9.雨天](9.0.rains.md)
 
