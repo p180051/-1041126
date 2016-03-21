@@ -10,7 +10,7 @@
 * [3.1.聖經](3.1.Bible.md)
 * [3.2寶劍](3.2dagger.md)
 * [4.大學之路](4.university.md)
-* [4.摩托車](4.0.motorcycle.md)
+* [4.摩托車](4.motorcycle.md)
 * [4.1.考試](4.1.exam.md)
 * [4.2.詭詐](4.2.Quirkiness.md)
 * [4.3.主日學校長](4.3.principal)
